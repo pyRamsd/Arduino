@@ -1,3 +1,3 @@
 # Imagen de circuito:
 
-!(.\circuito.jpg)
+![](.\circuito.jpg)
